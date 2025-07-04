@@ -1,8 +1,8 @@
 # PDF Chapter Splitter
 
 This is a simple Python script that splits a large PDF into multiple chapter-wise files based on custom page ranges using the PyPDF2 library.
-Save the pdf in the same folder and give the pdfs name in the load section.
 
+Save the pdf in the same folder and give the pdfs name in the load section.
          
 It’s ideal for students, teachers, researchers, and anyone who wants to organize large PDFs into manageable chapter files.
 
